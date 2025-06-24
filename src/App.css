@@ -157,7 +157,26 @@ body, html, #root {
   flex-direction: column;
   margin: 32px 0 18px 0;
   transition: max-width 0.3s;
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  overscroll-behavior: contain;
+  scroll-behavior: smooth;
 }
+.chat-window::-webkit-scrollbar {
+  display: none;
+}
+
+/* Optional: If you want a minimal custom scrollbar instead of hiding it, use this instead:
+.chat-window::-webkit-scrollbar {
+  width: 6px;
+  background: transparent;
+}
+.chat-window::-webkit-scrollbar-thumb {
+  background: rgba(44,108,223,0.12);
+  border-radius: 6px;
+}
+*/
 
 .message-bubble {
   max-width: 80%;

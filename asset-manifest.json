@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/resume_chatbot_frontend/static/css/main.28c056eb.css",
-    "main.js": "/resume_chatbot_frontend/static/js/main.64bcb4e8.js",
+    "main.js": "/resume_chatbot_frontend/static/js/main.48961e1e.js",
     "static/js/453.867f1855.chunk.js": "/resume_chatbot_frontend/static/js/453.867f1855.chunk.js",
     "static/media/profile.jpg": "/resume_chatbot_frontend/static/media/profile.12d2ccc1abfbd0585967.jpg",
-    "static/media/Micron_Logo.png": "/resume_chatbot_frontend/static/media/Micron_Logo.f413ef4232ac2dfd00c4.png",
+    "static/media/Micron_Logo.png": "/resume_chatbot_frontend/static/media/Micron_Logo.c1d6552135c0cd8a03f7.png",
     "static/media/DBS_Logo.png": "/resume_chatbot_frontend/static/media/DBS_Logo.add95be5fc2c6fd88d31.png",
     "static/media/Artius_Logo.jpg": "/resume_chatbot_frontend/static/media/Artius_Logo.5e8c0471fa1c4ed433dc.jpg",
     "index.html": "/resume_chatbot_frontend/index.html",
     "main.28c056eb.css.map": "/resume_chatbot_frontend/static/css/main.28c056eb.css.map",
-    "main.64bcb4e8.js.map": "/resume_chatbot_frontend/static/js/main.64bcb4e8.js.map",
+    "main.48961e1e.js.map": "/resume_chatbot_frontend/static/js/main.48961e1e.js.map",
     "453.867f1855.chunk.js.map": "/resume_chatbot_frontend/static/js/453.867f1855.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28c056eb.css",
-    "static/js/main.64bcb4e8.js"
+    "static/js/main.48961e1e.js"
   ]
 }

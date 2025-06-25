@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.28c056eb.css",
-    "main.js": "./static/js/main.2f0e3637.js",
+    "main.js": "./static/js/main.fc3e49b2.js",
     "static/js/453.867f1855.chunk.js": "./static/js/453.867f1855.chunk.js",
     "static/media/profile.jpg": "./static/media/profile.12d2ccc1abfbd0585967.jpg",
     "static/media/Micron_Logo.png": "./static/media/Micron_Logo.c1d6552135c0cd8a03f7.png",
@@ -9,11 +9,11 @@
     "static/media/Artius_Logo.jpg": "./static/media/Artius_Logo.5e8c0471fa1c4ed433dc.jpg",
     "index.html": "./index.html",
     "main.28c056eb.css.map": "./static/css/main.28c056eb.css.map",
-    "main.2f0e3637.js.map": "./static/js/main.2f0e3637.js.map",
+    "main.fc3e49b2.js.map": "./static/js/main.fc3e49b2.js.map",
     "453.867f1855.chunk.js.map": "./static/js/453.867f1855.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28c056eb.css",
-    "static/js/main.2f0e3637.js"
+    "static/js/main.fc3e49b2.js"
   ]
 }
